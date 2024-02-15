@@ -1,5 +1,5 @@
 # Idle Time Monitor
-
+<img width="442" alt="image" src="https://github.com/Humayung/idle-time-monitor/assets/35966084/e7852658-b522-461e-b1f8-1c0be1984544">
 ## Introduction
 
 The Idle Time Monitor is a simple script designed to help users track their idle time activities on macOS. By monitoring and logging idle time data, users can gain insights into their productivity habits and identify opportunities for improvement.
@@ -41,5 +41,3 @@ The Idle Time Monitor offers the following configuration options:
 - Customizable logging interval
 - User-defined output directory for saving log files (TODO)
 - Adjustable threshold for identifying idle time periods (TODO)
-
-<img width="442" alt="image" src="https://github.com/Humayung/idle-time-monitor/assets/35966084/e7852658-b522-461e-b1f8-1c0be1984544">
