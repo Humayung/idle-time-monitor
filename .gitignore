@@ -36,3 +36,4 @@ nosetests.xml
 .pydevproject
 nohup.out
 idle-history.json
+.DS_Store
