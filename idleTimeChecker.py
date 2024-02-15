@@ -1,3 +1,4 @@
+import os
 import json
 from datetime import datetime
 
@@ -99,7 +100,7 @@ def clear_terminal():
 
 class IdleTimeChecker(rumps.App):
     def __init__(self):
-        super(MenuBarApp, self).__init__("Idle time")
+        super(IdleTimeChecker, self).__init__("Idle time")
 
     def update_menubar(self):
         self.title = "Today's idle: " + format_seconds(get_total_idle())
