@@ -12,7 +12,7 @@ To install the Idle Time Monitor, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/idle-time-monitor.git
+git clone https://github.com/Humayung/idle-time-monitor/
 ```
 
 3. Install the required dependencies:
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 5. Run the script:
 ```
-python idle_time_monitor.py
+python idleTimeChecker.py
 ```
 
 
